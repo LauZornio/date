@@ -20,9 +20,13 @@ L'oggetto Date in JavaScript è utilizzato per gestire le date e gli orari. È u
 let now = new Date();
 
 **getFullYear()**: Restituisce l'anno (4 cifre).
+
 **getMonth()**: Restituisce il mese (0-11).
+
 **getDate()**: Restituisce il giorno del mese (1-31).
+
 **getDay()**: Restituisce il giorno della settimana (0-6, dove 0 è domenica).
+
 **getHours(), getMinutes(), getSeconds(), getMilliseconds()**: Restituiscono rispettivamente le ore, i minuti, i secondi e i millisecondi.
 
 ## Licenza
